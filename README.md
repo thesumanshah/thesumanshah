@@ -10,13 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Web data Scraping**
  
  🌱 I’m currently learning **Docker, Python, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/thesumanshah/thesumanshah/issues)**
+💬 Ask me about **python , Web Dev... or anything [here](https://github.com/thesumanshah/thesumanshah/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Why do programmers prefer dark mode?
+Because light attracts bugs! 😄**
 
  </div>
  
@@ -37,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,java,mysql,flask" /><br>
 </div>
 
 <br/>
